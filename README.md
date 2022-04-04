@@ -23,5 +23,5 @@ A software developer who is also passionate about user interface design.
 
 ###  Contact Me
 - <a href="https://www.linkedin.com/in/matheus-leal-745237214/">Linkedin</a>
-- <a href="mailto:matheuswecheley@outlook.com">E-mail</a>
+- <a href="mailto:matheuswech@outlook.com">E-mail</a>
 </div>
