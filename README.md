@@ -8,9 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Wecheley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wecheley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wecheley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wecheley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wecheley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
@@ -19,11 +16,10 @@
 Hey there! I’m Matheus Wecheley, 21 years old, currently living in Brazil. 
 I am a graduate student in Information Systems at Federal Technological University of Paraná (UTFPR, Universidade Federal do Paraná) in Toledo, Paraná.
 
-A software developer who is also passionate about user interface design.
+A software developer who is also passionate about backend.
 
 ### Technologies
-- Front-end Development with HTML, CSS, Javascript, React and VueJs.
-- User Interface Design.
+- Back-end Development with Nodejs, Express, GraphQL, mongoose, sequelize, MongoDB, Postgre.
   
 ### Content Creator at:
 - <a href="https://instagram.com/maath_leal">Instagram - @maath_leal</a>
