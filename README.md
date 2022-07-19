@@ -1,4 +1,4 @@
-### Hi guys! I'm Matheus Wecheley, developer Front-End 👋
+### Hi guys! I'm Matheus Wecheley, developer Back-End 👋
 
 <div align="center">
   <a href="https://github.com/matheuswecheley">
