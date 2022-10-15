@@ -1,13 +1,7 @@
 ### Hi guys! I'm Matheus Wecheley, developer Back-End 👋
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=bessecat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bessecat&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" style="vertical-align: top;" /></td>
-  </tr>
-</table>
+<p><img align="center" img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=herongs&show_icons=true&theme=dark&title_color=ff0000&locale=en&layout=compact" alt="herongs" /> <img align="center" img height="150" src="https://github-readme-stats.vercel.app/api?username=herongs&show_icons=true&theme=dark&title_color=ff0000&locale=en" alt="herongs" /></p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Wecheley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wecheley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
