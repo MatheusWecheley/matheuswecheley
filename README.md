@@ -17,7 +17,7 @@ I am a graduate student in Information Systems at Federal Technological Universi
 A software developer who is also passionate about backend.
 
 ### Technologies
-- Back-end Development Java, Spring boot, C#, and Nodejs, Express, GraphQL, mongoose, sequelize, MongoDB, PostgreSQL.
+- Back-end Development Java Spring boot, JPA / Hibernate, C#, and Nodejs, Express, GraphQL, mongoose, sequelize, MongoDB, PostgreSQL.
   
 ### Content Creator at:
 - <a href="https://instagram.com/maath_leal">Instagram - @maath_leal</a>
