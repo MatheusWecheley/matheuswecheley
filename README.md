@@ -11,7 +11,7 @@
   ##
  
 ### About Me
-Hey there! I’m Matheus Wecheley, 21 years old, currently living in Brazil. 
+Hey there! I’m Matheus Wecheley, 23 years old, currently living in Brazil. 
 I am a graduate student in Information Systems at Federal Technological University of Paraná (UTFPR, Universidade Federal do Paraná) in Toledo, Paraná.
 
 A software developer who is also passionate about backend.
